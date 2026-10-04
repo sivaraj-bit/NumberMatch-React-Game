@@ -4,7 +4,7 @@ A simple and interactive number matching game built with **React.js** and **Tail
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** https://sivaraj-bit.github.io/NumberMatch-React-Game/
+🔗 **Live Demo:**[ https://sivaraj-bit.github.io/NumberMatch-React-Game/](https://number-match-react-game.vercel.app/)
 
 ## 📌 GitHub Repository
 
@@ -231,8 +231,7 @@ https://github.com/sivaraj-bit
 
 ### LinkedIn
 
-https://www.linkedin.com/
-
+www.linkedin.com/in/sivaraj33
 ---
 
 ## 📄 License
